@@ -1,0 +1,276 @@
+# Copyright (C) 2019 Kotobee
+# This file is distributed under the same license as the Kotobee Integration plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Kotobee Integration 1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/kotobee-"
+"integration\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2019-01-13T16:29:45+00:00\n"
+"PO-Revision-Date: 2019-01-13 18:33+0200\n"
+"X-Generator: Poedit 2.2\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en\n"
+
+#. Plugin Name of the plugin
+msgid "Kotobee Integration"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://kotobee.com"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Integrates Kotobee services with Memberful and Woocommerce Wordpress plugins."
+msgstr ""
+
+#. Author of the plugin
+#: kotobee-integration.php:84
+msgid "Kotobee"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://www.kotobee.com"
+msgstr ""
+
+#: kotobee-integration.php:33 classes/KotobeeWoocommerceIntegration.php:97
+msgid "WooCommerce"
+msgstr ""
+
+#: kotobee-integration.php:34 classes/KotobeeMemberfulIntegration.php:74
+msgid "Memberful"
+msgstr ""
+
+#: kotobee-integration.php:83 admin/global-settings.php:18
+msgid "Kotobee Integration Settings"
+msgstr ""
+
+#: kotobee-integration.php:134
+msgid "Settings updated successfully."
+msgstr ""
+
+#: kotobee-integration.php:139
+msgid "The entered serial is invalid"
+msgstr ""
+
+#: kotobee-integration.php:173
+msgid "Settings"
+msgstr ""
+
+#: kotobee-integration.php:202
+msgid ""
+"You must enter kotobee serial number to start using Kotobee integration."
+msgstr ""
+
+#. translators: This is a link to Kotobee settings page
+#: kotobee-integration.php:205
+msgid "Click <a href=\"%s\">here</a> to enter your serial."
+msgstr ""
+
+#: admin/linking-page.php:9
+msgid "The requested page was not found"
+msgstr ""
+
+#: admin/linking-page.php:45
+msgid "Select one"
+msgstr ""
+
+#: admin/book-selection-template.php:10
+msgid "Tou do not have any books or libraries in your Kotobee account"
+msgstr ""
+
+#: admin/book-selection-template.php:25
+msgid "Library"
+msgstr ""
+
+#: admin/book-selection-template.php:26
+msgid "Cloud Books"
+msgstr ""
+
+#: admin/book-selection-template.php:31
+msgid "Select library:"
+msgstr ""
+
+#: admin/book-selection-template.php:52
+msgid "Global Access"
+msgstr ""
+
+#: admin/book-selection-template.php:54 admin/book-selection-template.php:83
+#: admin/book-selection-template.php:125 admin/book-selection-template.php:166
+#: admin/book-selection-template.php:212 classes/KotobeeIntegration.php:535
+msgid "Link"
+msgstr ""
+
+#: admin/book-selection-template.php:59
+msgid "Roles"
+msgstr ""
+
+#: admin/book-selection-template.php:63
+msgid "You do not have any roles defined in this library."
+msgstr ""
+
+#: admin/book-selection-template.php:70 admin/book-selection-template.php:93
+msgid "Role Name"
+msgstr ""
+
+#: admin/book-selection-template.php:71 admin/book-selection-template.php:94
+#: admin/book-selection-template.php:113 admin/book-selection-template.php:136
+#: admin/book-selection-template.php:154 admin/book-selection-template.php:178
+#: admin/book-selection-template.php:199 admin/book-selection-template.php:225
+msgid "Action"
+msgstr ""
+
+#: admin/book-selection-template.php:101
+msgid "Categories"
+msgstr ""
+
+#: admin/book-selection-template.php:105
+msgid "You do not have any categories in this library."
+msgstr ""
+
+#: admin/book-selection-template.php:112 admin/book-selection-template.php:135
+msgid "Category Name"
+msgstr ""
+
+#: admin/book-selection-template.php:144
+msgid "Books"
+msgstr ""
+
+#: admin/book-selection-template.php:147
+msgid "You do not have any books in this library."
+msgstr ""
+
+#: admin/book-selection-template.php:153 admin/book-selection-template.php:177
+#: admin/book-selection-template.php:198 admin/book-selection-template.php:224
+msgid "Book Title"
+msgstr ""
+
+#: admin/book-selection-template.php:189
+msgid "You do not have any libraries in your Kotobee account."
+msgstr ""
+
+#: admin/book-selection-template.php:231
+msgid "You do not have any cloud books in your Kotobee account."
+msgstr ""
+
+#: admin/global-settings.php:23
+msgid "Kotobee Serial Number"
+msgstr ""
+
+#: admin/global-settings.php:31
+msgid "Integrate with:"
+msgstr ""
+
+#: admin/global-settings.php:55
+msgid "Send activation email?"
+msgstr ""
+
+#: admin/global-settings.php:63
+msgid "Automatically remove access of unsubscribed users"
+msgstr ""
+
+#: admin/global-settings.php:70
+msgid "Save Settings"
+msgstr ""
+
+#: admin/metabox-html.php:19
+msgid "Your serial number is not valid."
+msgstr ""
+
+#: admin/metabox-html.php:27
+msgid "This product is linked to:"
+msgstr ""
+
+#: admin/metabox-html.php:29
+msgid "This product is not yet linked to any Kotobee book or library."
+msgstr ""
+
+#: admin/metabox-html.php:47
+msgid "Link to Kotobee"
+msgstr ""
+
+#: classes/KotobeeMemberfulIntegration.php:26
+msgid ""
+"Kotobee Memberful Integration requires Memberful WP plugin to be installed "
+"and activated in your website. Please install it to be able to use our plugin"
+msgstr ""
+
+#: classes/KotobeeMemberfulIntegration.php:73
+msgid "Memberful Integration Settings"
+msgstr ""
+
+#: classes/KotobeeWoocommerceIntegration.php:39
+msgid "Link Product to Kotobee"
+msgstr ""
+
+#: classes/KotobeeWoocommerceIntegration.php:60
+msgid ""
+"Kotobee WooCommerce Integration requires WooCommerce plugin to be installed "
+"and activated in your website. Please install it to be able to use our plugin"
+msgstr ""
+
+#: classes/KotobeeWoocommerceIntegration.php:96
+msgid "WooCommerce Integration Settings"
+msgstr ""
+
+#: classes/KotobeeIntegration.php:221
+msgid "Could not link item, please try again later"
+msgstr ""
+
+#: classes/KotobeeIntegration.php:251
+msgid "Could not remove linked item, please try again later"
+msgstr ""
+
+#: classes/KotobeeIntegration.php:272
+msgid "Missing argument"
+msgstr ""
+
+#: classes/KotobeeIntegration.php:283
+msgid "Access Denied"
+msgstr ""
+
+#: classes/KotobeeIntegration.php:289
+msgid "Unknown Type"
+msgstr ""
+
+#: classes/KotobeeIntegration.php:294
+msgid "Unknown Kotobee item type"
+msgstr ""
+
+#: classes/KotobeeIntegration.php:536
+msgid "Unlink"
+msgstr ""
+
+#. translators: An item is linked with global access in %s library
+#: classes/KotobeeIntegration.php:575
+msgid "Global access"
+msgstr ""
+
+#. translators: An item is linked with global access in %s library
+#: classes/KotobeeIntegration.php:575
+msgid "in %s."
+msgstr ""
+
+#. translators: An item is linked with role access in %s library
+#: classes/KotobeeIntegration.php:586
+msgid "role in %s:"
+msgstr ""
+
+#. translators: An item is linked with category access in %s library
+#: classes/KotobeeIntegration.php:601
+msgid "category in %s:"
+msgstr ""
+
+#. translators: An item is linked with book access in %s library
+#: classes/KotobeeIntegration.php:616
+msgid "book in %s:"
+msgstr ""
+
+#: classes/KotobeeIntegration.php:642
+msgid "cloud Book"
+msgstr ""

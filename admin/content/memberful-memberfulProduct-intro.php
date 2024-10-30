@@ -1,0 +1,3 @@
+<p>
+    Match your Memberful products with one or more ebooks in your Kotobee account. If you have a Kotobee library, you may link to individual ebooks, user roles, ebook categories, or the entire library. Users who successfully purchase the Memberful product will gain access to these ebooks. A practical way to utilize Memberful downloads would be to provide your cloud ebook or library as a desktop app to download and use straight away.
+</p>
